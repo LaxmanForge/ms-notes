@@ -1,4 +1,4 @@
-# Cloud Computing — Unit 1 (Simplified Deep-Dive Notes)
+# Cloud Security — Unit 1 (Simplified Deep-Dive Notes)
 ### Introduction, Cloud Migration & Infrastructure Security — MCA Exam Prep
 
 **How to use this document:** Every topic below has five parts —
