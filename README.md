@@ -1,2 +1,4 @@
 # ms-notes
-Notes for the cloud specialized subjects
+The documentation of cloud based subjects,
+- Virtualization, Docker, Devops, cloud Security.
+- 
